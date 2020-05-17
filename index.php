@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>hai dunia!</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti adipisci esse praesentium dignissimos quidem accusamus. Facere sit assumenda repellat minima distinctio laborum nam quisquam. Ullam sequi omnis amet maxime labore?</p>
 </body>
-</html>
+</html> 
